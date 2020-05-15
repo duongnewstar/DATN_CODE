@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="QmlLanguage_en.ts">../MusicPlayer/QmlLanguage_en.ts</file>
+        <file alias="QmlLanguage_ko.ts">../MusicPlayer/QmlLanguage_ko.ts</file>
+        <file alias="QmlLanguage_vi.ts">../MusicPlayer/QmlLanguage_vi.ts</file>
+        <file alias="QmlLanguage_en.qm">../MusicPlayer/QmlLanguage_en.qm</file>
+        <file alias="QmlLanguage_ko.qm">../MusicPlayer/QmlLanguage_ko.qm</file>
+        <file alias="QmlLanguage_vi.qm">../MusicPlayer/QmlLanguage_vi.qm</file>
+    </qresource>
+</RCC>
