@@ -1,0 +1,31 @@
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install g++
+sudo apt-get install build-essential
+sudo apt-get install libgl1-mesa-dev
+sudo apt-get install libpulse-dev 
+sudo apt-get install libglu1-mesa-dev
+sudo apt-get install qt5-default
+sudo apt-get install qtcreator
+
+multimedia widgets
+sudo apt-get install qtmultimedia5-dev
+sudo apt-get install libqt5multimediawidgets5
+sudo apt-get install libqt5multimedia5-plugins
+sudo apt-get install libqt5multimedia5
+sudo apt-get build-dep qtmultimedia5-dev
+sudo apt-get source --compile qtmultimedia5-dev
+
+webkitwidgets
+sudo apt-get install libqt5webkit5-dev
+sudo apt-get install libqt5xmlpatterns5-dev
+
+svg
+sudo apt-get install libqt5svg5*
+sudo apt install libqt5svg5-dev
+sudo dnf install qt5-qtsvg-devel
+
+pulse audio
+sudo apt-get install pulseaudio
+sudo apt install pulseaudio pavucontrol-qt
+sudo apt-get install qtmultimedia5-examples
